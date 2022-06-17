@@ -137,31 +137,33 @@
 	left: 0px;
 	top: 2447px;
 }
+#n_15 {
+	position: absolute;
+	width: 2035px;
+	height: 416px;
+	left: 551px;
+	top: 85px;
+	overflow: visible;
+}
 #n__3 {
 	position: absolute;
 	width: 1917px;
 	height: 416px;
-	left: 614px;
-	top: 85px;
+	left: 118px;
+	top: 0px;
 	overflow: visible;
 }
-#lee_hyo_ryoung {
-	left: 500px;
-	top: 185px;
+#n_14 {
 	position: absolute;
+	width: 667px;
+	height: 165px;
+	left: 0px;
+	top: 100px;
 	overflow: visible;
-	width: 664px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Akzidenz-Grotesk BQ Small;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 98px;
-	color: rgba(255,255,255,1);
 }
 #portfolio {
-	left: 500px;
-	top: 249px;
+	left: 2px;
+	top: 96px;
 	position: absolute;
 	overflow: visible;
 	width: 258px;
@@ -171,6 +173,28 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#n_13 {
+	position: absolute;
+	width: 667px;
+	height: 161px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#lee_hyo_ryoung {
+	left: 4px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 664px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akzidenz-Grotesk BQ Small;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 98px;
 	color: rgba(255,255,255,1);
 }
 #n_18 {
@@ -187,8 +211,8 @@
 	overflow: visible;
 	width: 667px;
 	height: 7px;
-	left: 498px;
-	top: 307px;
+	left: 0px;
+	top: 154px;
 }
 #about_me {
 	left: 1061px;
@@ -290,10 +314,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#n_15 {
+#n_15_ {
 	fill: rgba(248,179,13,1);
 }
-.n_15 {
+.n_15_ {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -344,7 +368,7 @@
 	left: 0px;
 	top: 1809px;
 }
-#n___ {
+#n___bb {
 	left: 131px;
 	top: 1863px;
 	position: absolute;
@@ -382,7 +406,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#n__bc {
+#n__bf {
 	left: 839px;
 	top: 1863px;
 	position: absolute;
@@ -415,7 +439,7 @@
 	top: 2515px;
 	overflow: visible;
 }
-#n___bf {
+#n___bi {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -440,7 +464,7 @@
 	left: 0px;
 	top: 19px;
 }
-#n___bh {
+#n___bk {
 	left: 1523px;
 	top: 1927px;
 	position: absolute;
@@ -532,10 +556,10 @@
 	left: 1526px;
 	top: 2127px;
 }
-#n_3_bo {
+#n_3_br {
 	fill: transparent;
 }
-.n_3_bo {
+.n_3_br {
 	overflow: hidden;
 	position: absolute;
 	width: 510px;
@@ -563,7 +587,7 @@
 	top: 1774px;
 	overflow: visible;
 }
-#n__br {
+#n__bu {
 	left: 14px;
 	top: 0px;
 	position: absolute;
@@ -577,10 +601,10 @@
 	font-size: 14px;
 	color: rgba(9,0,0,1);
 }
-#n_4_bs {
+#n_4_bv {
 	fill: rgba(6,8,62,1);
 }
-.n_4_bs {
+.n_4_bv {
 	position: absolute;
 	overflow: visible;
 	width: 5px;
@@ -610,7 +634,7 @@
 	top: 2412px;
 	overflow: visible;
 }
-#n___bv {
+#n___by {
 	left: 14px;
 	top: 0px;
 	position: absolute;
@@ -657,7 +681,7 @@
 	top: 1180px;
 	overflow: visible;
 }
-#n__bz {
+#n__b {
 	left: 14px;
 	top: 0px;
 	position: absolute;
